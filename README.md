@@ -14,5 +14,4 @@ Projeto criado durante a imersão Alura em Java.
 ![aula2](https://user-images.githubusercontent.com/96389198/229314456-048e5624-71b6-400d-ba19-254953f0f96b.png)
 <br>
 ![filme1](https://user-images.githubusercontent.com/96389198/229314459-be87523b-d3cf-4162-ac0e-87840cc82852.png)
-<br>
 ![filme2](https://user-images.githubusercontent.com/96389198/229314464-574fe2d2-991f-409a-a15c-c7f518c73e84.png)
